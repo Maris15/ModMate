@@ -21,7 +21,7 @@ namespace ModMateManager
                 GatewayIntents = GatewayIntents.Guilds | GatewayIntents.GuildMessages
             });
 
-            const string token = "MTM4MDk2MDg0NTY5MzA1OTE3Mw.G3G2ds.Bi1uDbLaXrOCsd8TNITxQM_Si4OHruEwOtmvH4";
+            const string token = ""; // Your Discord Bot Token
 
             _core = new Core();
             _commands = new Commands(_client, _core);
