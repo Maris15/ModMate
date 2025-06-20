@@ -10,6 +10,7 @@ NOTE: PY OR PYTHON MUST BE INSTALLED IN YOUR SYSTEM IF YOU WANT TO USE THE LOCAL
 It is NOT required for the program to run, it will still reads the JSON settings file even if you turned off your localhost It's just not gonna get updated automatically
 
 ModManager -> the Application 
+
 ModMate Manager -> the bot
 
 Dev note: Unfortunately I am unable to continue this project I'm working on a different important project, my final exams are coming up very soon and I do not have time to continue.
