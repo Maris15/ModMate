@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "LSPDFR Core",
+    "Plugins",
+    "Models",
+    "ELS",
+    "Mods Updates",
+    "Scripts"
+  ],
+  "mods": [
+    {
+      "name": "ewr",
+      "category": "Plugins",
+      "author": "rwer",
+      "description": "rwerwrw",
+      "downloadUrl": "dsada",
+      "installPath": "/",
+      "fileSize": 0,
+      "version": "111",
+      "isCore": false,
+      "installType": "",
+      "dependencies": [],
+      "iniPath": "",
+      "iniFileName": ""
+    },
+    {
+      "name": "sad",
+      "category": "Plugins",
+      "author": "sadas",
+      "description": "sadasd",
+      "downloadUrl": "dasda",
+      "installPath": "/",
+      "fileSize": 0,
+      "version": "11",
+      "isCore": true,
+      "installType": "",
+      "dependencies": [],
+      "iniPath": "",
+      "iniFileName": ""
+    },
+    {
+      "name": "fortesting",
+      "category": "Plugins",
+      "author": "adaw",
+      "description": "dadawd",
+      "downloadUrl": "dsada",
+      "installPath": "/",
+      "fileSize": 0,
+      "version": "1",
+      "isCore": false,
+      "installType": "",
+      "dependencies": [],
+      "iniPath": "",
+      "iniFileName": ""
+    }
+  ]
+}

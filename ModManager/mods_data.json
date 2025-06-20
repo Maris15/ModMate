@@ -1,0 +1,108 @@
+{
+  "categories": [
+    "LSPDFR Core",
+    "Plugins",
+    "Models",
+    "ELS",
+    "Mods Updates",
+    "Scripts"
+  ],
+  "mods": [
+    {
+      "name": "LSPDFR",
+      "category": "LSPDFR Core",
+      "author": "G17 Media",
+      "description": "Los Santos Police Department First Response (LSPDFR)",
+      "downloadUrl": "",
+      "installPath": "/",
+      "fileSize": 15000000,
+      "version": "0.4.9",
+      "isCore": true,
+      "installType": "standard",
+      "dependencies": [],
+      "iniPath": "/lspdfr/",
+      "iniFileName": "lspdfr.ini"
+    },
+    {
+      "name": "Grammar Police",
+      "category": "Plugins",
+      "author": "Albo1125",
+      "description": "Grammar Police is an LSPDFR plugin that enhances the arrest and ticketing system.",
+      "downloadUrl": "",
+      "installPath": "/plugins/LSPDFR/",
+      "fileSize": 2800000,
+      "version": "1.3.2",
+      "isCore": false,
+      "installType": "standard",
+      "dependencies": [ "LSPDFR" ],
+      "iniFileName": ""
+    },
+    {
+      "name": "Ultimate Backup",
+      "category": "Plugins",
+      "author": "",
+      "description": "Grammar Police is an LSPDFR plugin that enhances the arrest and ticketing system.",
+      "downloadUrl": "",
+      "installPath": "/",
+      "fileSize": 2800000,
+      "version": "1.3.2",
+      "isCore": false,
+      "installType": "standard",
+      "dependencies": [ "LSPDFR" ],
+      "iniPath": "/plugins/LSPDFR/",
+      "iniFileName": "UltimateBackup.ini"
+    },
+    {
+      "name": "LSPD Mega Pack",
+      "category": "Models",
+      "author": "EchoAlpha",
+      "description": "A comprehensive pack of LSPD vehicles with detailed models and textures.",
+      "downloadUrl": "",
+      "installPath": "/mods/update/x64/dlcpacks/lspdmegapack/",
+      "fileSize": 225000000,
+      "version": "2.0.1",
+      "isCore": false,
+      "installType": "carpack",
+      "dependencies": []
+    },
+    {
+      "name": "AdvancedHookV",
+      "category": "ELS",
+      "author": "PoliceMods",
+      "description": "This Component is REQUIRED for Emergency Lighting System for LSPD vehicles.",
+      "downloadUrl": "",
+      "installPath": "/",
+      "fileSize": 5000000,
+      "version": "1.5",
+      "isCore": false,
+      "installType": "els",
+      "dependencies": []
+    },
+    {
+      "name": "LSPDFR UPDATE",
+      "category": "Mods Updates",
+      "author": "G17 Media",
+      "description": "Los Santos Police Department First Response (LSPDFR), to update the LSPDFR without re-installing the full version and losing your settings",
+      "downloadUrl": "",
+      "installPath": "/",
+      "fileSize": 100,
+      "version": "0.4.9",
+      "isCore": true,
+      "installType": "standard",
+      "dependencies": []
+    },
+    {
+      "name": "Emergency Lighting System",
+      "category": "ELS",
+      "author": "PoliceMods",
+      "description": "Emergency Lighting System for LSPD vehicles.",
+      "downloadUrl": "",
+      "installPath": "/",
+      "fileSize": 225000000,
+      "version": "2.0.1",
+      "isCore": false,
+      "installType": "carpack",
+      "dependencies": [ "AdvancedHookV" ]
+    }
+  ]
+}
