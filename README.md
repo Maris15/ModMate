@@ -10,6 +10,8 @@ To run a localhost, locate your source files then type: py -m http.server 8000
 NOTE: PY OR PYTHON MUST BE INSTALLED IN YOUR SYSTEM IF YOU WANT TO USE THE LOCAL HOST.
 It is NOT required for the program to run, it will still reads the JSON settings file even if you turned off your localhost It's just not gonna get updated automatically
 
+For Developers: search in the entire solution "//TODO" for my todo list if you're interested in doing them but you def need to fix the issues 
+
 ModManager -> the Application 
 
 ModMate Manager -> the bot
